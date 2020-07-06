@@ -1,3 +1,5 @@
+# Libraries
+
 import os
 import time
 from pytube import YouTube
@@ -5,9 +7,13 @@ from pytube import YouTube
 # url = 'https://youtu.be/xl8zdCY-abw' # Narcos-Trailer
 # url = 'https://www.youtube.com/watch?v=cq2iTHoLrt0' # Dark S3 Trailer
 
+# Input
+
 print("Enter the Youtube URL of the Video you want to Download : ")
 url = input()
 youtube = YouTube(url)
+
+# Processing
 
 print('-----------------------------------')
 
@@ -52,6 +58,8 @@ ystream = youtube.streams.get_by_itag('22')
 
 # Get the Highest Quality Progressive Stream
 ystream = youtube.streams.get_highest_resolution()
+
+# Ouput
 
 # Downloading the File
 print('Starting Download ...')
