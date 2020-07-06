@@ -24,7 +24,7 @@ Install the dependencies from your terminal with -
 
 `pip install -r requirements.txt`
 
-## Dependencies 
+## Run 
 
 Run the Downloader from your terminal with -
 
