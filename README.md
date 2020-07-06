@@ -12,6 +12,8 @@ Download Video &amp; Audio Files from Youtube using Python.
 
 It is a Simple YouTube Downloader which takes in input of the URL of the YouTube Video from the user and Downloads the same in your device.
 
+NEW -  CLI Integration also available!!
+
 ## Output
 
 Demo:
@@ -30,13 +32,38 @@ Run the Downloader from your terminal with -
 
 `python YTDownloader.py`
 
+## CLI Integration
+
+Run the following in your terminal -
+
+```
+pip install R07
+python
+>>>from R07 import YTDownloader
+```
+```
+>>>YTDownloader()
+```
+OR
+```
+YTDownloader(<url-of-the-video>)
+```
+![](./outputs/YTDownloader.PNG)
+
+For more information refer to my PyPI Official Documentation, [R-07.](https://pypi.org/project/R07)
+
+NOTE : The File will be downloaded to the current working directory.
+
+## Performance
+
+![](./outputs/Time.PNG) <br>
+Here the file got downloaded in 0.14s which takes around 3-4s using other third-party softwares.
+
 ## Next Updates 
 
-| 1. CLI-Integration |
+| To Do              |
 |--------------------|
-| 2. Tkinter Build   |
-
-NOTE : CLI Integration will directly imported to my PyPI Library [R-07.](https://pypi.org/project/R07)
+| 1. Tkinter Build   |
 
 ## Contributing [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/dwyl/esta/issues)
 
