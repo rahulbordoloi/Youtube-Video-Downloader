@@ -5,6 +5,9 @@
 ![Test passing](https://img.shields.io/badge/Tests-passing-brightgreen.svg)
 ![Python Version](https://img.shields.io/badge/python-3.x-brightgreen.svg)
 [![PyPI version](https://badge.fury.io/py/R07.svg)](https://badge.fury.io/py/R07)
+![](https://img.shields.io/pypi/dm/R07?color=green&label=pypi-downloads&style=flat-square)
+![](https://img.shields.io/github/last-commit/rahulbordoloi/Youtube-Video-Downloader?style=flat-square)
+[![Open Source Love png2](https://badges.frapsoft.com/os/v2/open-source.png?v=103)](https://github.com/ellerbrock/open-source-badges/)
 
 Download Video &amp; Audio Files from Youtube using Python.
 
@@ -78,3 +81,8 @@ If you are the helping and contributing one, your efforts and suggestion are alw
     Donate with Crypto
   </a>
 </div>
+
+<br>
+
+[![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
+[![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)](https://GitHub.com/rahulbordoloi/)
