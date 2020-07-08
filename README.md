@@ -53,7 +53,9 @@ YTDownloader(<url-of-the-video>)
 ```
 ![](./outputs/YTDownloader.PNG)
 
-For more information refer to my PyPI Official Documentation, [R-07.](https://pypi.org/project/R07)
+For more information refer to -
+1. PyPI Official Documentation, [R-07.](https://pypi.org/project/R07)
+1. Github Repository, [PyPI-Publish](https://github.com/rahulbordoloi/PyPI-Publish.git)
 
 NOTE : The File will be downloaded to the current working directory.
 
