@@ -21,7 +21,7 @@ NEW -  CLI Integration also available!!
 
 Demo:
 ![](./outputs/Capture.PNG)
-All the section wise output files according to sections are in `/output`.
+All the output files according to sections are in `/output`.
 
 ## Dependencies 
 
